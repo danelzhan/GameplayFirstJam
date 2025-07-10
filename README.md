@@ -1,4 +1,6 @@
-# 😈 Cozy Incremental Game
+# Cozy Incremental Game
 
-_A Cozy Evil Incremental Game for the Gameplay First Game Jam_
+_A Cozy Incremental Game for the Gameplay First Game Jam_
+
+> **Jam Theme:** "Wait... We're the Bad Guys?"
 
